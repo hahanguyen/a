@@ -1,2 +1,1 @@
-# a
-a
+https://github.com/koding/koding.git
